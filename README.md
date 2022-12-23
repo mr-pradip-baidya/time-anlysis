@@ -2,4 +2,4 @@
 
 `Assests are Provided!`
 
-![Project 6](./Data%20Analytics%20Landing%20page.png)
+![Project 6](./timeanlysis%20-%20Google%20Chrome%2023-12-2022%2006_08_20%20PM.png)
